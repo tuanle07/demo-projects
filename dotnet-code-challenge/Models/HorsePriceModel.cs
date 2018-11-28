@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace dotnet_code_challenge
+namespace dotnet_code_challenge.Models
 {
     public class HorsePriceModel
     {
